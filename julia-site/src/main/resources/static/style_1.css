@@ -1,0 +1,25 @@
+.background{
+    background-color: #e79e9e;
+    /*border: 2px solid #353535;*/
+    /*height: 100px;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*font-size: 30px;*/
+
+}
+.text-left{
+    text-align: left;
+}
+
+.col-3{
+    font-size: 22px;
+}
+
+.p-3{
+    height: 140px;
+}
+
+.form-control text-center{
+    /*text-align: center;*/
+    justify-content: center;
+}
